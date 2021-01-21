@@ -13,7 +13,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Stephin-Franklin/DDos-Attack
+### git clone https://github.com/DevilTeam0/Ddos-attack
 
 ### cd DDos-Attack
 
